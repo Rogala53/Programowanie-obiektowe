@@ -1,0 +1,14 @@
+C:\git\1.tablice,listy,\bin\Debug\net8.0\1.tablice,listy,.exe
+C:\git\1.tablice,listy,\bin\Debug\net8.0\1.tablice,listy,.deps.json
+C:\git\1.tablice,listy,\bin\Debug\net8.0\1.tablice,listy,.runtimeconfig.json
+C:\git\1.tablice,listy,\bin\Debug\net8.0\1.tablice,listy,.dll
+C:\git\1.tablice,listy,\bin\Debug\net8.0\1.tablice,listy,.pdb
+C:\git\1.tablice,listy,\obj\Debug\net8.0\1.tablice,listy,.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\1.tablice,listy,\obj\Debug\net8.0\1.tablice,listy,.AssemblyInfoInputs.cache
+C:\git\1.tablice,listy,\obj\Debug\net8.0\1.tablice,listy,.AssemblyInfo.cs
+C:\git\1.tablice,listy,\obj\Debug\net8.0\1.tablice,listy,.csproj.CoreCompileInputs.cache
+C:\git\1.tablice,listy,\obj\Debug\net8.0\1.tablice,listy,.dll
+C:\git\1.tablice,listy,\obj\Debug\net8.0\refint\1.tablice,listy,.dll
+C:\git\1.tablice,listy,\obj\Debug\net8.0\1.tablice,listy,.pdb
+C:\git\1.tablice,listy,\obj\Debug\net8.0\1.tablice,listy,.genruntimeconfig.cache
+C:\git\1.tablice,listy,\obj\Debug\net8.0\ref\1.tablice,listy,.dll
