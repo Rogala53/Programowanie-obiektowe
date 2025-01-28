@@ -14,6 +14,10 @@ namespace Projekt.Services
 {
     public class OrderService : IOrderManagement
     {
+        public delegate void OnOrderStatusChangeHandler(string message);
+        public delegate void OnOrderAddHandler(string message);
+        public event OnOrderAddHandler OnOrderAdd;
+        public event OnOrderStatusChangeHandler OnOrderStatusChange;
         private ClientService _clientService;
 
         public Dictionary<OrderStatus, string> Status;
@@ -71,6 +75,7 @@ namespace Projekt.Services
             Order Order = new Order(OrderId, AvailableStatuses[StatusId - 1], Client);
             Orders.Add(Order);
             Console.WriteLine($"Zlecenie o numerze {Order.OrderId} zostało dodane");
+            OnOrderAdd?.Invoke($"Zlecenie {Order.OrderId} utworzone.");
         }
         private Client FindClientByPhoneNumber(string PhoneNumber)
         {
@@ -113,6 +118,7 @@ namespace Projekt.Services
                     Console.WriteLine("Wybrałeś zły numer statusu, spróbuj ponownie");
                 }
                 Order.Status = AvailableStatuses[StatusId - 1];
+                OnOrderStatusChange?.Invoke($"Zmieniono status zlecenia {Order.OrderId} na \"{Order.Status}\"");
                 Console.WriteLine($"Status zlecenia o numerze ID {Order.OrderId} zmieniono na: {Status[Order.Status]}");
             }
         }

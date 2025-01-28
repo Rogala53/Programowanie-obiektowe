@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 namespace Projekt.Utils
@@ -8,14 +9,9 @@ namespace Projekt.Utils
     public class Logger
     {
         private const string _logsPath = "../../../Data/logs.txt";
-        public delegate void LoggerHandler();
-        public event LoggerHandler? ActionMade;
-        
-        public void WriteToLog()
+        public void WriteToLog(string message)
         {
-            Console.WriteLine("blablabla");
-            File.AppendAllText(_logsPath, $" adhfdhrhr\n");
-            ActionMade?.Invoke();
+            File.AppendAllText(_logsPath, DateTime.Now.ToString("[yyyy-MM-dd HH-mm-ss]") + " " + message + "\n");
         }
     }
 }

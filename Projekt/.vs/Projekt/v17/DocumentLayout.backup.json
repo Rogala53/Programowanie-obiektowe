@@ -1,46 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\PROJEKTY\\C#\\Projekt\\",
+  "WorkspaceRootPath": "E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B10D864-97F9-40BF-A98C-0BC1C92C542C}|Projekt.csproj|e:\\projekty\\c#\\projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B10D864-97F9-40BF-A98C-0BC1C92C542C}|Projekt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Utils\\Logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Utils\\Logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B10D864-97F9-40BF-A98C-0BC1C92C542C}|Projekt.csproj|e:\\projekty\\c#\\projekt\\utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B10D864-97F9-40BF-A98C-0BC1C92C542C}|Projekt.csproj|solutionrelative:utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B10D864-97F9-40BF-A98C-0BC1C92C542C}|Projekt.csproj|e:\\projekty\\c#\\projekt\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B10D864-97F9-40BF-A98C-0BC1C92C542C}|Projekt.csproj|solutionrelative:services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Services\\OrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\OrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B10D864-97F9-40BF-A98C-0BC1C92C542C}|Projekt.csproj|e:\\projekty\\c#\\projekt\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B10D864-97F9-40BF-A98C-0BC1C92C542C}|Projekt.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Data\\logs.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\logs.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B10D864-97F9-40BF-A98C-0BC1C92C542C}|Projekt.csproj|e:\\projekty\\c#\\projekt\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B10D864-97F9-40BF-A98C-0BC1C92C542C}|Projekt.csproj|solutionrelative:enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Services\\AuthenticationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\AuthenticationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B10D864-97F9-40BF-A98C-0BC1C92C542C}|Projekt.csproj|e:\\projekty\\c#\\projekt\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B10D864-97F9-40BF-A98C-0BC1C92C542C}|Projekt.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Services\\ClientService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\ClientService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B10D864-97F9-40BF-A98C-0BC1C92C542C}|Projekt.csproj|e:\\projekty\\c#\\projekt\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B10D864-97F9-40BF-A98C-0BC1C92C542C}|Projekt.csproj|solutionrelative:services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Models\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B10D864-97F9-40BF-A98C-0BC1C92C542C}|Projekt.csproj|e:\\projekty\\c#\\projekt\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B10D864-97F9-40BF-A98C-0BC1C92C542C}|Projekt.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Models\\Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B10D864-97F9-40BF-A98C-0BC1C92C542C}|Projekt.csproj|e:\\projekty\\c#\\projekt\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B10D864-97F9-40BF-A98C-0BC1C92C542C}|Projekt.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B10D864-97F9-40BF-A98C-0BC1C92C542C}|Projekt.csproj|e:\\projekty\\c#\\projekt\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B10D864-97F9-40BF-A98C-0BC1C92C542C}|Projekt.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,37 +50,37 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "logs.txt",
+              "DocumentMoniker": "E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Data\\logs.txt",
+              "RelativeDocumentMoniker": "Data\\logs.txt",
+              "ToolTip": "E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Data\\logs.txt",
+              "RelativeToolTip": "Data\\logs.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-28T14:29:39.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Logger.cs",
-              "DocumentMoniker": "E:\\PROJEKTY\\C#\\Projekt\\Utils\\Logger.cs",
+              "DocumentMoniker": "E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Utils\\Logger.cs",
               "RelativeDocumentMoniker": "Utils\\Logger.cs",
-              "ToolTip": "E:\\PROJEKTY\\C#\\Projekt\\Utils\\Logger.cs",
+              "ToolTip": "E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Utils\\Logger.cs",
               "RelativeToolTip": "Utils\\Logger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T17:35:33.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Role.cs",
-              "DocumentMoniker": "E:\\PROJEKTY\\C#\\Projekt\\Enums\\Role.cs",
-              "RelativeDocumentMoniker": "Enums\\Role.cs",
-              "ToolTip": "E:\\PROJEKTY\\C#\\Projekt\\Enums\\Role.cs",
-              "RelativeToolTip": "Enums\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T17:09:54.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "User.cs",
-              "DocumentMoniker": "E:\\PROJEKTY\\C#\\Projekt\\Models\\User.cs",
+              "DocumentMoniker": "E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "E:\\PROJEKTY\\C#\\Projekt\\Models\\User.cs",
+              "ToolTip": "E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,11 +89,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Client.cs",
-              "DocumentMoniker": "E:\\PROJEKTY\\C#\\Projekt\\Models\\Client.cs",
+              "DocumentMoniker": "E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Models\\Client.cs",
               "RelativeDocumentMoniker": "Models\\Client.cs",
-              "ToolTip": "E:\\PROJEKTY\\C#\\Projekt\\Models\\Client.cs",
+              "ToolTip": "E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Models\\Client.cs",
               "RelativeToolTip": "Models\\Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -106,11 +102,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Order.cs",
-              "DocumentMoniker": "E:\\PROJEKTY\\C#\\Projekt\\Models\\Order.cs",
+              "DocumentMoniker": "E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
-              "ToolTip": "E:\\PROJEKTY\\C#\\Projekt\\Models\\Order.cs",
+              "ToolTip": "E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Models\\Order.cs",
               "RelativeToolTip": "Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,107 +115,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ClientService.cs",
-              "DocumentMoniker": "E:\\PROJEKTY\\C#\\Projekt\\Services\\ClientService.cs",
+              "DocumentMoniker": "E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Services\\ClientService.cs",
               "RelativeDocumentMoniker": "Services\\ClientService.cs",
-              "ToolTip": "E:\\PROJEKTY\\C#\\Projekt\\Services\\ClientService.cs",
+              "ToolTip": "E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Services\\ClientService.cs",
               "RelativeToolTip": "Services\\ClientService.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwDEAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T19:56:47.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "E:\\PROJEKTY\\C#\\Projekt\\Models\\Admin.cs",
-              "RelativeDocumentMoniker": "Models\\Admin.cs",
-              "ToolTip": "E:\\PROJEKTY\\C#\\Projekt\\Models\\Admin.cs",
-              "RelativeToolTip": "Models\\Admin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthenticationService.cs",
+              "ToolTip": "E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T19:56:23.991Z",
+              "WhenOpened": "2025-01-14T16:52:10.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "OrderService.cs",
-              "DocumentMoniker": "E:\\PROJEKTY\\C#\\Projekt\\Services\\OrderService.cs",
+              "DocumentMoniker": "E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "Services\\OrderService.cs",
-              "ToolTip": "E:\\PROJEKTY\\C#\\Projekt\\Services\\OrderService.cs",
+              "ToolTip": "E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Services\\OrderService.cs",
               "RelativeToolTip": "Services\\OrderService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAE0AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T19:57:31.349Z",
               "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "7fa9c272-2a4e-46ad-a15f-36d5a6b26976",
-        "Display": 1,
-        "X": 150,
-        "Y": 63,
-        "Width": 1679,
-        "Height": 856,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthenticationService.cs",
-              "DocumentMoniker": "E:\\PROJEKTY\\C#\\Projekt\\Services\\AuthenticationService.cs",
-              "RelativeDocumentMoniker": "Services\\AuthenticationService.cs",
-              "ToolTip": "E:\\PROJEKTY\\C#\\Projekt\\Services\\AuthenticationService.cs",
-              "RelativeToolTip": "Services\\AuthenticationService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA4AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T16:52:10.69Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "d94344c2-ea3c-45b5-8b17-77d01434585a",
-        "Display": 1,
-        "X": 154,
-        "Y": 138,
-        "Width": 1679,
-        "Height": 856,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\PROJEKTY\\C#\\Projekt\\Program.cs",
+              "DocumentMoniker": "E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\PROJEKTY\\C#\\Projekt\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "ToolTip": "E:\\PROJEKTY\\C#\\Programowanie-obiektowe\\Projekt\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T18:00:13.2Z",
               "EditorCaption": ""

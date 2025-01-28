@@ -18,7 +18,8 @@ namespace Projekt
             orderService.Mechanics.Add(mechanic);
             orderService.Orders.Add(order);
             clientService.Clients.Add(client);
-            logger.ActionMade += orderService.AddOrder;
+            orderService.OnOrderAdd += logger.WriteToLog;
+            orderService.OnOrderStatusChange += logger.WriteToLog;
 
             orderService.AddOrder();
             Console.ReadKey();
